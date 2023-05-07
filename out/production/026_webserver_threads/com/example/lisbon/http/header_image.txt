@@ -1,0 +1,4 @@
+HTTP/1.0 200 Document Follows\r\n
+Content-Type: image/<image_file_extension> \r\n
+Content-Length: <file_byte_size> \r\n
+\r\n
